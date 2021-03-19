@@ -29,7 +29,7 @@ Flask-SQLAlchemy==2.3.2
 greenlet==0.4.13
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 jwcrypto==0.4.2
 logging-helper==1.7.0
